@@ -1,0 +1,5 @@
+{
+  "name": "Dairy Management System",
+  "description": "A full-stack Dairy Management System with role-based authentication, milk collection, production, inventory, and sales.",
+  "requestFramePermissions": []
+}
