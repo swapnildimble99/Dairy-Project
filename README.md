@@ -99,7 +99,7 @@ Password : admin123
 ![Home](Screenshot/customerorderstatus.png)
 
 ### Admin OverView Page
-![Home](Screenshot/overview)
+![Home](Screenshot/overview.png)
 
 ### Current Inventory Page
 ![Home](Screenshot/current inventery.png)
