@@ -119,10 +119,6 @@ Password : admin123
 ### Assigned Deliveries Page
 ![Home](Screenshot/deliverycheck.png)
 
-### home Page
-![Home](Screenshot/home.png)
-
-
 
 ---
 
