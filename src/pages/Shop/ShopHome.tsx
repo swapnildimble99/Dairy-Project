@@ -24,10 +24,10 @@ export default function ShopHome() {
 
   const getProductBadge = (name: string) => {
     const lowerName = name.toLowerCase();
-    if (lowerName.includes('milk') || lowerName.includes('buttermilk')) return { label: '#FreshDaily', color: '#22c55e' };
-    if (lowerName.includes('curd') || lowerName.includes('yogurt')) return { label: '#FarmFresh', color: '#22c55e' };
-    if (lowerName.includes('ghee')) return { label: '#PremiumQuality', color: '#22c55e' };
-    if (lowerName.includes('paneer')) return { label: '#BestQuality', color: '#22c55e' };
+    if (lowerName.includes('milk') || lowerName.includes('buttermilk')) return { label: 'BESTSELLER', color: '#22c55e' };
+    if (lowerName.includes('curd') || lowerName.includes('yogurt')) return { label: 'FARM FRESH', color: '#22c55e' };
+    if (lowerName.includes('ghee')) return { label: 'PREMIUM', color: '#22c55e' };
+    if (lowerName.includes('paneer')) return { label: 'FRESH DAILY', color: '#22c55e' };
     return null;
   };
 
