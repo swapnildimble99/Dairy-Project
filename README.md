@@ -124,12 +124,9 @@ Password : admin123
 
 ## 🌟 Future Improvements
 
-* Milk Inventory Tracking
-* Online Order Management
 * Customer Billing System
 * Payment Integration
 * Report & Analytics Export
-* Role Based Access Control
 
 ---
 
