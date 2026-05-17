@@ -55,13 +55,13 @@ src/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/dairy-management-system.git
+git clone https://github.com/swapnildimble99/Dairy-Project.git
 ```
 
 ### 2️⃣ Open Project Folder
 
 ```bash
-cd dairy-management-system
+cd Dairy-Project
 ```
 
 ### 3️⃣ Install Dependencies
